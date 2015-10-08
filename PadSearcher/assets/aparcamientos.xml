@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="UTF-8" ?><Contenidos>
+    <infoDataset>
+        <nombre>Aparcamientos públicos municipales</nombre>
+        <id>202625-0</id>
+        <uri>http://datos.madrid.es/egob/catalogo/202625-0-aparcamientos-publicos</uri>
+        <descripcion> Relación de los aparcamientos destinados a la provisión de plazas de de uso público de la ciudad de Madrid, en la que se incluyen aquellos que tienen zonas reservada para residentes.   La gestión de estos aparcamientos se realiza a través de un concesionario.   Su régimen de utilización característico es el transitorio, en el que cualquier usuario puede acceder a cualquier plaza con estancia, generalmente, de corta o media duración. </descripcion>
+    </infoDataset>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13470</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Arquitecto Ribera</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  318 públicas y 298 para residentes  Abierto 24 horas   Titularidad:  Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=a50e15cbed51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">BARCELO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">2</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28004</atributo>
+                <atributo nombre="BARRIO">JUSTICIA</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440764</atributo>
+                <atributo nombre="COORDENADA-Y">4475560</atributo>
+                <atributo nombre="LATITUD">40.426687899755734</atributo>
+                <atributo nombre="LONGITUD">-3.6996173701222492</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">59060</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Avenida de América (intercambiador)</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Información sobre accesibilidad :   Tiene escaleras adaptadas  Ascensor de salida a la calle Avenida de América, 9  Tiene aseos accesibles  Plazas para minusválidos     Plazas : 269 públicas y 392 para residentes   Abierto 24 horas    Titularidad : Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=3f3bc2c6e051c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PRADENA DEL RINCON</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">4</atributo>
+                <atributo nombre="ORIENTACION">c/v avenida de América</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28002</atributo>
+                <atributo nombre="BARRIO">PROSPERIDAD</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+                <atributo nombre="COORDENADA-X">442725</atributo>
+                <atributo nombre="COORDENADA-Y">4476896</atributo>
+                <atributo nombre="LATITUD">40.43886083125741</atributo>
+                <atributo nombre="LONGITUD">-3.6766217383743345</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 376 257</atributo>
+                <atributo nombre="EMAIL">intercambiador@intercambiador.net</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5898885</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Avenida de Portugal</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas:  433 públicas y 437 para residentes   Informacion sobre accesibilidad:    No tiene escalera adaptada  Tiene ascensor de salida a Avenida de Portugal, s/n  1 aseo accesible (nivel-3)  Plazas para minusválidos residentes: 20    Abierto 24 horas   Titularidad : Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c313e26f2b3fc210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PORTUGAL</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">155</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28011</atributo>
+                <atributo nombre="BARRIO">PUERTA DEL ANGEL</atributo>
+                <atributo nombre="DISTRITO">LATINA</atributo>
+                <atributo nombre="COORDENADA-X">437508</atributo>
+                <atributo nombre="COORDENADA-Y">4473865</atributo>
+                <atributo nombre="LATITUD">40.411180021966345</atributo>
+                <atributo nombre="LONGITUD">-3.7378318857463158</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 877 292</atributo>
+                <atributo nombre="EMAIL">aparcamientos@madridmovilidad.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13475</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Brasil</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  226 públicas y 400 para residentes  Abierto 24 horas   Titularidad:  Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=fb2e15cbed51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">GENERAL YAG&amp;Uuml;E</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">11</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28020</atributo>
+                <atributo nombre="BARRIO">CUATRO CAMINOS</atributo>
+                <atributo nombre="DISTRITO">TETUAN</atributo>
+                <atributo nombre="COORDENADA-X">441255</atributo>
+                <atributo nombre="COORDENADA-Y">4478822</atributo>
+                <atributo nombre="LATITUD">40.45610834965894</atributo>
+                <atributo nombre="LONGITUD">-3.694131675088486</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">183747</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Casino de la Reina</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  135 públicas y 449 para residentes  Abierto 24 horas   Titularidad:  Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c5f4bdc85c01c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CASINO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28005</atributo>
+                <atributo nombre="BARRIO">EMBAJADORES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440323</atributo>
+                <atributo nombre="COORDENADA-Y">4473355</atributo>
+                <atributo nombre="LATITUD">40.406792648617134</atributo>
+                <atributo nombre="LONGITUD">-3.7046086019457167</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13477</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Condesa de Gavia</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 73 públicas y 79 para residentes   Abierto 24 horas   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=7e5f15cbed51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CONDESA DE GAVIA</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">0</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28020</atributo>
+                <atributo nombre="BARRIO">CUATRO CAMINOS</atributo>
+                <atributo nombre="DISTRITO">TETUAN</atributo>
+                <atributo nombre="COORDENADA-X">440589</atributo>
+                <atributo nombre="COORDENADA-Y">4478081</atributo>
+                <atributo nombre="LATITUD">40.44938567948415</atributo>
+                <atributo nombre="LONGITUD">-3.7019164121880888</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">24103</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Corazón de María II</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas : 327 públicas y 750 para residentes   Informacion sobre accesibilidad:    No tiene escalera adaptada  No tiene ascensor de salida a calle  2 aseos accesibles ( 1&ordf;  planta)   Plazas para minusválidos residentes: 6     Abierto 24 horas    Titularidad : Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b74e6545f951c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CORAZON DE MARIA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">46</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28002</atributo>
+                <atributo nombre="BARRIO">PROSPERIDAD</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+                <atributo nombre="COORDENADA-X">443554</atributo>
+                <atributo nombre="COORDENADA-Y">4477507</atributo>
+                <atributo nombre="LATITUD">40.444421820483264</atributo>
+                <atributo nombre="LONGITUD">-3.666902094780133</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 563 165 / 915 195 280</atributo>
+                <atributo nombre="EMAIL">aparcamientocorazondemaria@grupocogesa.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">81736</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Corona Boreal</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas : 120 públicas y 125 para residentes   Información sobre accesibilidad:    No tiene escaleras adaptadas  Ascensor de salida a la calle Pérez de Victoria  2 aseos accesibles (1&ordf; planta)  Plazas para minusválidos residentes: 3     Abierto 24 horas    Titularidad : Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=db8bc2c6e051c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PEREZ DE VICTORIA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28023</atributo>
+                <atributo nombre="BARRIO">ARAVACA</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">433707</atributo>
+                <atributo nombre="COORDENADA-Y">4479153</atributo>
+                <atributo nombre="LATITUD">40.45852127134047</atributo>
+                <atributo nombre="LONGITUD">-3.78317943069732</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 573 714</atributo>
+                <atributo nombre="EMAIL">parkingcoronaboreal@hotmail.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">183748</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Daoíz y Velarde</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  312 públicas y 174 para residentes  Abierto 24 horas   Titularidad:  Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0f85bdc85c01c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CIUDAD DE BARCELONA</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28007</atributo>
+                <atributo nombre="BARRIO">PACIFICO</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">442108</atributo>
+                <atributo nombre="COORDENADA-Y">4473177</atributo>
+                <atributo nombre="LATITUD">40.40531540835356</atributo>
+                <atributo nombre="LONGITUD">-3.683557034656531</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">S/T</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">44724</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Díaz Porlier</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  203 públicas y 421 para residentes  Abierto 24 horas   Titularidad:  Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=9e69946be351c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">DIEGO DE LEON</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">62</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28006</atributo>
+                <atributo nombre="BARRIO">LISTA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">442797</atributo>
+                <atributo nombre="COORDENADA-Y">4476402</atributo>
+                <atributo nombre="LATITUD">40.434415601006386</atributo>
+                <atributo nombre="LONGITUD">-3.675728293375598</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">91 401 73 74</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">36269</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Encuentro</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  104 públicas y 550 para residentes  Abierto 24 horas   Titularidad:  Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c3e12c798651c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ENCUENTRO</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28030</atributo>
+                <atributo nombre="BARRIO">MEDIA LEGUA</atributo>
+                <atributo nombre="DISTRITO">MORATALAZ</atributo>
+                <atributo nombre="COORDENADA-X">444782</atributo>
+                <atributo nombre="COORDENADA-Y">4473212</atributo>
+                <atributo nombre="LATITUD">40.40581270738191</atributo>
+                <atributo nombre="LONGITUD">-3.652048809515808</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">91 328 36 80</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13464</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Felipe II</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 1218 públicas y 607 para residentes    Plazas : 120 públicas y 125 para residentes   Información sobre accesibilidad:    No tiene escaleras adaptadas  Ascensor de salida a la plaza de Felipe II  Aseo accesible (1&ordf; planta)  Plazas para minusválidos residentes:23     Abierto 24 horas    Admite tarjeta Bono Red    Titularidad : Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=425e15cbed51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ANTONIA MERCE</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">5-B</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28009</atributo>
+                <atributo nombre="BARRIO">GOYA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">442983</atributo>
+                <atributo nombre="COORDENADA-Y">4475269</atributo>
+                <atributo nombre="LATITUD">40.42422175692137</atributo>
+                <atributo nombre="LONGITUD">-3.673433652213169</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 329 300</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13462</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Fuencarral</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas : 410 públicas y 111 para residentes   Información sobre accesibilidad:   No tiene escalera adaptada  1 ascensor con salida a la calle Fuencarral, 117  1 aseo accesible en la 1&ordf; planta  Plazas para minusválidos residentes: 7     Abierto 24 horas    Admite Tarjeta Bono Red    Titularidad : Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=987e15cbed51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FUENCARRAL</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">111 a 121</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28010</atributo>
+                <atributo nombre="BARRIO">TRAFALGAR</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">440497</atributo>
+                <atributo nombre="COORDENADA-Y">4475873</atributo>
+                <atributo nombre="LATITUD">40.42948845687032</atributo>
+                <atributo nombre="LONGITUD">-3.7027941027177986</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 468 939</atributo>
+                <atributo nombre="EMAIL">clientes@empark.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13515</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. General Yagüe</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  409 públicas y 717 residentes  Abierto 24 horas   Titularidad:  Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ee9e15cbed51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">BRASIL</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">15</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28020</atributo>
+                <atributo nombre="BARRIO">CASTILLEJOS</atributo>
+                <atributo nombre="DISTRITO">TETUAN</atributo>
+                <atributo nombre="COORDENADA-X">441261</atributo>
+                <atributo nombre="COORDENADA-Y">4478892</atributo>
+                <atributo nombre="LATITUD">40.45673936450418</atributo>
+                <atributo nombre="LONGITUD">-3.694067405537416</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">36270</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Hernani</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas:  115 públicas y 383 residentes   Información sobre accesibilidad:   No tiene escaleras adptadas  Ascensor de salida a la calle Hernai, 68  1 aseo accesible en 1&ordf; planta  Plazas para minusválidos residentes. 3      Abierto 24 horas    Titularidad:  Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d0712c798651c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">HERNANI</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">60</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28020</atributo>
+                <atributo nombre="BARRIO">CUATRO CAMINOS</atributo>
+                <atributo nombre="DISTRITO">TETUAN</atributo>
+                <atributo nombre="COORDENADA-X">440463</atributo>
+                <atributo nombre="COORDENADA-Y">4477972</atributo>
+                <atributo nombre="LATITUD">40.448394729978006</atributo>
+                <atributo nombre="LONGITUD">-3.7033919552673127</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 545 326</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13459</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Jacinto Benavente</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas:  285 públicas y 110 para residentes   Información sobre accesibilidad:   No tiene escaleras adaptadas  Ascensor con salida a la calle Jacinto benavente, s/n  1 aseo accesible Plaza para minusválidos residentes: 16    Abierto 24 horas  Admite Tarjeta Bono Red    Titularidad:  Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c48f15cbed51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">JACINTO BENAVENTE</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">6</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28012</atributo>
+                <atributo nombre="BARRIO">CORTES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440439</atributo>
+                <atributo nombre="COORDENADA-Y">4474203</atributo>
+                <atributo nombre="LATITUD">40.41444016371457</atributo>
+                <atributo nombre="LONGITUD">-3.70332112917586</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 877 292</atributo>
+                <atributo nombre="EMAIL">aparcamientos@madridmovilidad.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13479</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. José Castán Tobeñas</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas:  205 públicas y 43 para residentes   Información sobre accesibilidad:    No tiene escaleras adaptadas  No disponde ascensor  No disponde de aseos accesible  Plazas para minusválidos residentes: 5     Abierto 24 horas    Titularidad:  Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=35ce15cbed51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CAPITAN HAYA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">57</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28020</atributo>
+                <atributo nombre="BARRIO">CASTILLEJOS</atributo>
+                <atributo nombre="DISTRITO">TETUAN</atributo>
+                <atributo nombre="COORDENADA-X">441477</atributo>
+                <atributo nombre="COORDENADA-Y">4479747</atributo>
+                <atributo nombre="LATITUD">40.46451060463543</atributo>
+                <atributo nombre="LONGITUD">-3.6916467875121377</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 707 612</atributo>
+                <atributo nombre="EMAIL">aeuropeos@gmail.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6143690</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Marqués de Salamanca</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas : 360 públicas y 70 para residentes   Información sobre accesibilidad:    No tiene escaleras adaptadas  1 ascensor en la salida a la plaza del Marqués de Salamanca  1 aseo accesible en  2&ordf;   planta  Plaza para minusválidos residentes: 14     Abierto 24 horas    Titularidad : Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=cb5b1b2bb5b61310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MARQUES DE SALAMANCA</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">8</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28006</atributo>
+                <atributo nombre="BARRIO">LISTA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">442498</atributo>
+                <atributo nombre="COORDENADA-Y">4475966</atributo>
+                <atributo nombre="LATITUD">40.43046723981028</atributo>
+                <atributo nombre="LONGITUD">-3.6792137901324056</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 877 292 </atributo>
+                <atributo nombre="EMAIL">aparcamientos@madridmovilidad.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">182188</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Miguel Yuste</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  182  públicas y 68 para residentes  Abierto: 24 horas   Titularidad:  Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=1c15bdc85c01c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MIGUEL YUSTE</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">11</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28037</atributo>
+                <atributo nombre="BARRIO">SIMANCAS</atributo>
+                <atributo nombre="DISTRITO">SAN BLAS-CANILLEJAS</atributo>
+                <atributo nombre="COORDENADA-X">447100</atributo>
+                <atributo nombre="COORDENADA-Y">4477013</atributo>
+                <atributo nombre="LATITUD">40.4402052387976</atributo>
+                <atributo nombre="LONGITUD">-3.625049272913964</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5517342</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Orense</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas : 128 públicas y 663 para residentes   Información sobre accesibilidad:    1 escalera adaptada  No dispone de ascensor   1 aseo accesible  Plaza para minusválidos residentes: 5     Abierto 24 horas    Titularidad : Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=eee35ed15bb95210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SOR ANGELA DE LA CRUZ</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">27</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28020</atributo>
+                <atributo nombre="BARRIO">CASTILLEJOS</atributo>
+                <atributo nombre="DISTRITO">TETUAN</atributo>
+                <atributo nombre="COORDENADA-X">441080</atributo>
+                <atributo nombre="COORDENADA-Y">4479226</atributo>
+                <atributo nombre="LATITUD">40.45973534025835</atributo>
+                <atributo nombre="LONGITUD">-3.6962330375922363</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 877 292</atributo>
+                <atributo nombre="EMAIL">aparcamientos@madridmovilidad.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">33440</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Oriente</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 242 públicas y 511 para residentes  Abierto 24 horas  Admite Tarjeta Bono Red   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=7db12c798651c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ORIENTE</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28013</atributo>
+                <atributo nombre="BARRIO">PALACIO</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439736</atributo>
+                <atributo nombre="COORDENADA-Y">4474563</atributo>
+                <atributo nombre="LATITUD">40.417632509561116</atributo>
+                <atributo nombre="LONGITUD">-3.7116407088004757</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">36271</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Presidente Carmona</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a domingo servicio ininterrumpido]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 379 públicas y 124 para residentes  Abierto 24 horas   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=8a412c798651c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PRESIDENTE CARMONA</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28020</atributo>
+                <atributo nombre="BARRIO">CUATRO CAMINOS</atributo>
+                <atributo nombre="DISTRITO">TETUAN</atributo>
+                <atributo nombre="COORDENADA-X">440965</atributo>
+                <atributo nombre="COORDENADA-Y">4478549</atributo>
+                <atributo nombre="LATITUD">40.45362846199134</atributo>
+                <atributo nombre="LONGITUD">-3.6975262417380064</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13476</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Recoletos</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas : 102 públicas y 289 para residentes   Información sobre accesibilidad:    No tiene escaleras adaptadas  1 ascensor en la salida al Paseo de Recoletos  1 aseo accesible  Plaza para minusválidos residentes: 10     Abierto 24 horas    Admite la Tarjeta BonoRed (Bono Red)    Titularidad : Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=283f15cbed51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">RECOLETOS</atributo>
+                <atributo nombre="CLASE-VIAL">PASEO</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">4</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28001</atributo>
+                <atributo nombre="BARRIO">RECOLETOS</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441407</atributo>
+                <atributo nombre="COORDENADA-Y">4474873</atributo>
+                <atributo nombre="LATITUD">40.42054469225109</atributo>
+                <atributo nombre="LONGITUD">-3.691974283683488</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 877 292</atributo>
+                <atributo nombre="EMAIL">aparcamientos@madridmovilidad.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">24193</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. República Dominicana</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 892 públicas y 203 para residentes  Abierto 24 horas   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=aabe6545f951c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">REPUBLICA DOMINICANA</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">6-B</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28016</atributo>
+                <atributo nombre="BARRIO">NUEVA ESPAÑA</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+                <atributo nombre="COORDENADA-X">442750</atributo>
+                <atributo nombre="COORDENADA-Y">4479117</atributo>
+                <atributo nombre="LATITUD">40.45887037458626</atributo>
+                <atributo nombre="LONGITUD">-3.6765275895176677</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">167692</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. San Cayetano</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 222 públicas y 261 para residentes  Abierto 24 horas   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=a284ff632081c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SAN CAYETANO</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1-B</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28028</atributo>
+                <atributo nombre="BARRIO">GUINDALERA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">443276</atributo>
+                <atributo nombre="COORDENADA-Y">4476388</atributo>
+                <atributo nombre="LATITUD">40.43432235224971</atributo>
+                <atributo nombre="LONGITUD">-3.6700799322371056</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">19053</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Sánchez Bustillo</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 132 públicas y 408 para residentes  Abierto 24 horas   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=27912c798651c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SANCHEZ BUSTILLO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28012</atributo>
+                <atributo nombre="BARRIO">EMBAJADORES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">441224</atributo>
+                <atributo nombre="COORDENADA-Y">4473612</atributo>
+                <atributo nombre="LATITUD">40.40917205238472</atributo>
+                <atributo nombre="LONGITUD">-3.6940145592988043</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7416748</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Serrano I</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 307 públicas y 831 para residentes  Abierto 24 horas   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bd61f94ae1d15410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">JUAN BRAVO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">4-B</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28006</atributo>
+                <atributo nombre="BARRIO">CASTELLANA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441944</atributo>
+                <atributo nombre="COORDENADA-Y">4476240</atributo>
+                <atributo nombre="LATITUD">40.43289700914247</atributo>
+                <atributo nombre="LONGITUD">-3.6857697780390155</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7417028</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Serrano II</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 379 públicas y 794 para residentes  Abierto 24 horas   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bc096f1c35d15410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">JOSE ORTEGA Y GASSET</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1-B</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28006</atributo>
+                <atributo nombre="BARRIO">CASTELLANA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441729</atributo>
+                <atributo nombre="COORDENADA-Y">4475986</atributo>
+                <atributo nombre="LATITUD">40.43059379257075</atributo>
+                <atributo nombre="LONGITUD">-3.688281097618061</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7417052</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Serrano III</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 261 públicas y 725 para residentes  Abierto 24 horas   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=9a1c6f1c35d15410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">JORGE JUAN</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1-B</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28001</atributo>
+                <atributo nombre="BARRIO">RECOLETOS</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441597</atributo>
+                <atributo nombre="COORDENADA-Y">4475307</atributo>
+                <atributo nombre="LATITUD">40.42446775888825</atributo>
+                <atributo nombre="LONGITUD">-3.6897747066093993</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13460</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Sevilla</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 476 públicas y 70 para residentes  Abierto 24 horas   Admite Tarjeta Bono Red    Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=9dd67339ae51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALCALA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">17-B</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">SOL</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440740</atributo>
+                <atributo nombre="COORDENADA-Y">4474574</atributo>
+                <atributo nombre="LATITUD">40.41780383567921</atributo>
+                <atributo nombre="LONGITUD">-3.6998082261071747</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">52114</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Vázquez de Mella</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas:  109 públicas y 261 para residentes   Información sobre accesibilidad:    No tiene escaleras adaptadas  1 ascensor con salida a la Plaza de Vazquez de Mella  1 aseo accesible  Plaza para minusválidos residentes: 7     Abierto 24 horas    Titularidad:  Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e499946be351c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">VAZQUEZ DE MELLA</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28004</atributo>
+                <atributo nombre="BARRIO">JUSTICIA</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440735</atributo>
+                <atributo nombre="COORDENADA-Y">4474924</atributo>
+                <atributo nombre="LATITUD">40.4209564450911</atributo>
+                <atributo nombre="LONGITUD">-3.699899832865304</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 877 292</atributo>
+                <atributo nombre="EMAIL">aparcamientos@movilidad.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13458</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Velázquez - Ayala</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  464 públicas y 235 para residentes  Abierto 24 horas  Admite Tarjeta BonoRed.   Titularidad:  Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=8bee15cbed51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">VELAZQUEZ</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">47</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28001</atributo>
+                <atributo nombre="BARRIO">RECOLETOS</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">442075</atributo>
+                <atributo nombre="COORDENADA-Y">4475607</atributo>
+                <atributo nombre="LATITUD">40.427203787185476</atributo>
+                <atributo nombre="LONGITUD">-3.6841676172873936</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13457</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Velázquez Jorge Juan</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  549 públicas y 395 para residentes  Abierto 24 horas  Admite Tarjeta Bono Red   Titularidad:  Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d11f15cbed51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">VELAZQUEZ</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">25-B</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28001</atributo>
+                <atributo nombre="BARRIO">RECOLETOS</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">442058</atributo>
+                <atributo nombre="COORDENADA-Y">4475292</atributo>
+                <atributo nombre="LATITUD">40.4243649253884</atributo>
+                <atributo nombre="LONGITUD">-3.684339253399854</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">183607</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento mixto. Verdaguer y García</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas:  83 públicas y 180 para residentes   Información sobre accesibilidad:    No tiene escaleras adaptadas  1 ascensor en la salida a la Calle Verdaguer y garcía  1 aseo accesible en la planta -1  Plaza para minusválidos residentes: 4     Abierto 24 horas    Titularidad:  Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6245bdc85c01c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">VERDAGUER Y GARCIA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28027</atributo>
+                <atributo nombre="BARRIO">SAN PASCUAL</atributo>
+                <atributo nombre="DISTRITO">CIUDAD LINEAL</atributo>
+                <atributo nombre="COORDENADA-X">444432</atributo>
+                <atributo nombre="COORDENADA-Y">4477001</atributo>
+                <atributo nombre="LATITUD">40.43992277144076</atributo>
+                <atributo nombre="LONGITUD">-3.656505118007155</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 531 050</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7073131</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público.  Nuestra Señora del Recuerdo</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 819 (36 para recarga eléctrica de vehículos)  Abierto 24 horas ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=12f4322b42690410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">HIEDRA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">26</atributo>
+                <atributo nombre="ORIENTACION">Acceso también por c/ Marqués de Burgos</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28036</atributo>
+                <atributo nombre="BARRIO">CASTILLA</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+                <atributo nombre="COORDENADA-X">442535</atributo>
+                <atributo nombre="COORDENADA-Y">4480554</atributo>
+                <atributo nombre="LATITUD">40.47180063753809</atributo>
+                <atributo nombre="LONGITUD">-3.6791936061781114</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 877 292</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13452</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Almagro</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas : 462   Informacion sobre accesibilidad:    1 escalera adaptada  No tiene ascensor de salida a calle  1 aseo accesible   Plazas para minusválidos residentes: 17    Abierto 24 horas  Admite Tarjeta Bono Red   Titularidad : Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0e167339ae51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALMAGRO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">13</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28010</atributo>
+                <atributo nombre="BARRIO">ALMAGRO</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">441316</atributo>
+                <atributo nombre="COORDENADA-Y">4475957</atributo>
+                <atributo nombre="LATITUD">40.43030345785862</atributo>
+                <atributo nombre="LONGITUD">-3.6931471299523446</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7393089</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Auditorio Nacional de Música (Príncipe de Vergara)</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  376  Abierto 24 horas  Admite la Tarjeta Bono Red    Titularidad:  Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ed88f25e040c4410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CARTAGENA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">176</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28002</atributo>
+                <atributo nombre="BARRIO">CIUDAD JARDIN</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+                <atributo nombre="COORDENADA-X">442638</atributo>
+                <atributo nombre="COORDENADA-Y">4477497</atributo>
+                <atributo nombre="LATITUD">40.44426892073378</atributo>
+                <atributo nombre="LONGITUD">-3.6777018495296048</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13473</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Descalzas</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  400   Abierto 24 horas  Admite Tarjeta Bono Red    Titularidad:  Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=98e77339ae51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">DESCALZAS</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">4</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28013</atributo>
+                <atributo nombre="BARRIO">SOL</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440189</atributo>
+                <atributo nombre="COORDENADA-Y">4474611</atributo>
+                <atributo nombre="LATITUD">40.41809765692244</atributo>
+                <atributo nombre="LONGITUD">-3.706306013191402</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">91 532 57 57</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosResidentes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">24809</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Fernández Shaw</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 245  Abierto 24 horas   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0e6e6545f951c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CARLOS Y GUILLERMO FERNANDEZ SHAW</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28007</atributo>
+                <atributo nombre="BARRIO">ADELFAS</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">443319</atributo>
+                <atributo nombre="COORDENADA-Y">4473244</atributo>
+                <atributo nombre="LATITUD">40.406002468696784</atributo>
+                <atributo nombre="LONGITUD">-3.669292239090564</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13478</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Glorieta Puerta de Toledo</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  244  Abierto 24 horas  Admite la Tarjeta BonoRed (Bono Red)   Titularidad:  Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=5f477339ae51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CAPITAN SALAZAR MARTINEZ</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">2</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28005</atributo>
+                <atributo nombre="BARRIO">EMBAJADORES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439865</atributo>
+                <atributo nombre="COORDENADA-Y">4473432</atributo>
+                <atributo nombre="LATITUD">40.40745328367243</atributo>
+                <atributo nombre="LONGITUD">-3.7100131737859567</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13467</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Las Cortes</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 480  Abierto 24 horas  Admite Tarjeta Bono REd   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=42c77339ae51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">LAS CORTES</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">NUM</atributo>
+                <atributo nombre="NUM">0</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">CORTES</atributo>
+                <atributo nombre="COORDENADA-X">441115</atributo>
+                <atributo nombre="COORDENADA-Y">4474345</atributo>
+                <atributo nombre="LATITUD">40.41576756093728</atributo>
+                <atributo nombre="LONGITUD">-3.695367083138702</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13449</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Luna - Tudescos</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 481  Abierto 24 horas  Admite Tarjeta Bono Red   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=54467339ae51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SANTA MARIA SOLEDAD TORRES ACOSTA</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">2</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28004</atributo>
+                <atributo nombre="BARRIO">UNIVERSIDAD</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440255</atributo>
+                <atributo nombre="COORDENADA-Y">4474983</atributo>
+                <atributo nombre="LATITUD">40.4214535549175</atributo>
+                <atributo nombre="LONGITUD">-3.705563118253955</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13469</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Marqués de Urquijo</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 482  Abierto 24 horas  Admite Tarjeta Bono Ted ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=aa667339ae51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MARQUES DE URQUIJO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">27</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28008</atributo>
+                <atributo nombre="BARRIO">ARGUELLES</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">439113</atributo>
+                <atributo nombre="COORDENADA-Y">4475892</atributo>
+                <atributo nombre="LATITUD">40.42955928333471</atributo>
+                <atributo nombre="LONGITUD">-3.719111078507027</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13465</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Montalbán</atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Admite la Tarjeta BonoRed (Bono Red)]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  275  Abierto 24 horas  Admite Tarjet Bono Red   Titularidad:  Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f0967339ae51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MONTALBAN</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">4</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">LOS JERONIMOS</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">441477</atributo>
+                <atributo nombre="COORDENADA-Y">4474593</atributo>
+                <atributo nombre="LATITUD">40.41802725000116</atributo>
+                <atributo nombre="LONGITUD">-3.691123387515545</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13451</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Mostenses</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas:  362   Información sobre accesibilidad:    No tiene escaleras adaptadas  1 ascensor   1 aseo accesible en  2&ordf;   planta  Plaza para minusválidos residentes: 16     Abierto 24 horas    Admite Tarjeta Bono Red     Titularidad:  Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=fe0881eb5f51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">GARCIA MOLINAS</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">4</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28015</atributo>
+                <atributo nombre="BARRIO">UNIVERSIDAD</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439979</atributo>
+                <atributo nombre="COORDENADA-Y">4475132</atributo>
+                <atributo nombre="LATITUD">40.4227759148193</atributo>
+                <atributo nombre="LONGITUD">-3.708830424647755</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">902 283 080</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">88141</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Museo de la Ciudad</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  147  Abierto 24 horas   Titularidad:  Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bdc7bdc85c01c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PRINCIPE DE VERGARA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">134</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28002</atributo>
+                <atributo nombre="BARRIO">CIUDAD JARDIN</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+                <atributo nombre="COORDENADA-X">442593</atributo>
+                <atributo nombre="COORDENADA-Y">4477430</atributo>
+                <atributo nombre="LATITUD">40.44366224087455</atributo>
+                <atributo nombre="LONGITUD">-3.6782263814004565</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13450</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Olavide</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas : 397    Información sobre accesibilidad:    Disponde de escaleras adaptadas  1 ascensor en la salida a la Plaza de Olavide  1 aseo accesible en la  1&ordf;   planta  Plaza para minusválidos residentes: 8    Admite la Tarjeta BonoRed (Bono Red)  Abierto 24 horas   Titularidad : Ayuntamiento de Madrid   ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=453881eb5f51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">OLAVIDE</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">17</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28010</atributo>
+                <atributo nombre="BARRIO">TRAFALGAR</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">440639</atributo>
+                <atributo nombre="COORDENADA-Y">4476237</atributo>
+                <atributo nombre="LATITUD">40.43277769820206</atributo>
+                <atributo nombre="LONGITUD">-3.7011542013121264</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 468 570</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13454</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Plaza de Colón</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 605  Abierto 24 horas  Admite Tarjeta Bono Red   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=a5777339ae51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">GOYA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">2</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28001</atributo>
+                <atributo nombre="BARRIO">RECOLETOS</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441682</atributo>
+                <atributo nombre="COORDENADA-Y">4475386</atributo>
+                <atributo nombre="LATITUD">40.42518540300912</atributo>
+                <atributo nombre="LONGITUD">-3.6887800207651495</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13463</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Plaza de España</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 824  Abierto 24 horas  Admite Tarjeta Bono Red   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=fb977339ae51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ESPA&amp;Ntilde;A</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">20</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28008</atributo>
+                <atributo nombre="BARRIO">ARGUELLES</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">439740</atributo>
+                <atributo nombre="COORDENADA-Y">4475239</atributo>
+                <atributo nombre="LATITUD">40.42372251184839</atributo>
+                <atributo nombre="LONGITUD">-3.7116577340508523</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13472</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Plaza del Carmen</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas:  450   Información sobre accesibilidad:    No tiene escaleras adaptadas  1 ascensor   1 aseo accesible en   1&ordf;   planta  Plaza para minusválidos residentes: 7     Abierto 24 horas    Admite Tarjeta Bono Red    Titularidad:  Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=8ec881eb5f51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CARMEN</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">10</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28013</atributo>
+                <atributo nombre="BARRIO">SOL</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440464</atributo>
+                <atributo nombre="COORDENADA-Y">4474652</atributo>
+                <atributo nombre="LATITUD">40.41848676016168</atributo>
+                <atributo nombre="LONGITUD">-3.703068586180966</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 214 312</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13474</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Plaza del Rey</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas : 160   Información sobre accesibilidad:    Si tiene escaleras adaptadas  1 ascensor   3 aseos accesibles (uno por planta): 8  Plaza para minusválidos residentes: 16    Abierto 24 horas  Admite Tarjeta Bono Red   Titularidad : Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d4f881eb5f51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">REY</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28004</atributo>
+                <atributo nombre="BARRIO">JUSTICIA</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">441076</atributo>
+                <atributo nombre="COORDENADA-Y">4474836</atributo>
+                <atributo nombre="LATITUD">40.42018796139455</atributo>
+                <atributo nombre="LONGITUD">-3.69587231093941</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 225 219</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13466</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Plaza Mayor</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas : 694  Abierto 24 horas  Admite Tarjeta Bono Red   Titularidad : Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=2b1981eb5f51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FELIPE III</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">11</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28012</atributo>
+                <atributo nombre="BARRIO">SOL</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440137</atributo>
+                <atributo nombre="COORDENADA-Y">4474364</atributo>
+                <atributo nombre="LATITUD">40.41586882022003</atributo>
+                <atributo nombre="LONGITUD">-3.706895619414367</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13456</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Santa Ana</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas:  325   Información sobre accesibilidad:    No tiene escaleras adaptadas  1 ascensor   1 aseo accesible en  1&ordf;  planta  Plaza para minusválidos residentes: 6     Abierto 24 horas    Admite Tarjeta Bono Red    Titularidad:  Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=9b5881eb5f51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SANTA ANA</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">16</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28012</atributo>
+                <atributo nombre="BARRIO">CORTES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440645</atributo>
+                <atributo nombre="COORDENADA-Y">4474250</atributo>
+                <atributo nombre="LATITUD">40.41487830605113</atributo>
+                <atributo nombre="LONGITUD">-3.700897645451053</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 214 312</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13468</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Velázquez - Juan Bravo</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[  Plazas:  371  Abierto 24 horas  Admite Tarjeta Bono Red   Titularidad:  Ayuntamiento de Madrid ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e3077339ae51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">VELAZQUEZ</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">88-B</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28006</atributo>
+                <atributo nombre="BARRIO">CASTELLANA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">442140</atributo>
+                <atributo nombre="COORDENADA-Y">4476138</atributo>
+                <atributo nombre="LATITUD">40.431991827319116</atributo>
+                <atributo nombre="LONGITUD">-3.683449815935094</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">13453</atributo>
+            <atributo nombre="NOMBRE">Aparcamiento público. Villa de París</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Plazas:  341   Información sobre accesibilidad:    No tiene escaleras adaptadas  No disponde de ascensor  1 aseo accesible  Plaza para minusválidos residentes: 13     Abierto 24 horas    Admite Tarjeta Bono Red    Titularidad:  Ayuntamiento de Madrid  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=38a881eb5f51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MARQUES DE LA ENSENADA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1-B</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28004</atributo>
+                <atributo nombre="BARRIO">JUSTICIA</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">441373</atributo>
+                <atributo nombre="COORDENADA-Y">4475380</atributo>
+                <atributo nombre="LATITUD">40.42533530030625</atributo>
+                <atributo nombre="LONGITUD">-3.6923416648619947</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="EMAIL">aparcamientos@movilidad.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AparcamientosPublicos</atributo>
+        </atributos>
+    </contenido>
+</Contenidos>
+

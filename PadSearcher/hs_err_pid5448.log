@@ -1,0 +1,109 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  Internal Error (javaClasses.cpp:129), pid=5448, tid=6672
+#  fatal error: Invalid layout of preloaded class
+#
+# JRE version: 7.0_25-b17
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (23.25-b01 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.sun.com/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00000000022fe800):  JavaThread "Unknown thread" [_thread_in_vm, id=6672, stack(0x0000000002480000,0x0000000002580000)]
+
+Stack: [0x0000000002480000,0x0000000002580000]
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x00000000022fe800 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=6672, stack(0x0000000002480000,0x0000000002580000)]
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+Events (10 events):
+Event: 0.007 loading class 0x000000000223d3c0 done
+Event: 0.007 loading class 0x00000000021f3260 done
+Event: 0.007 loading class 0x00000000021f3230
+Event: 0.007 loading class 0x0000000002245e60
+Event: 0.007 loading class 0x0000000002245e60 done
+Event: 0.007 loading class 0x0000000002245ea0
+Event: 0.007 loading class 0x0000000002245ea0 done
+Event: 0.007 loading class 0x000000000225c5b0
+Event: 0.007 loading class 0x000000000225c5b0 done
+Event: 0.007 loading class 0x00000000021f3230 done
+
+
+Dynamic libraries:
+0x000000013f690000 - 0x000000013f6c3000 	C:\JDK\jdk1.7.0-64bits\bin\javaw.exe
+0x00000000779b0000 - 0x0000000077b59000 	C:\Windows\SYSTEM32\ntdll.dll
+0x0000000077890000 - 0x00000000779af000 	C:\Windows\system32\kernel32.dll
+0x000007fefdad0000 - 0x000007fefdb3c000 	C:\Windows\system32\KERNELBASE.dll
+0x000007fefe790000 - 0x000007fefe86b000 	C:\Windows\system32\ADVAPI32.dll
+0x000007fefecb0000 - 0x000007fefed4f000 	C:\Windows\system32\msvcrt.dll
+0x000007fefde00000 - 0x000007fefde1f000 	C:\Windows\SYSTEM32\sechost.dll
+0x000007fefe660000 - 0x000007fefe78d000 	C:\Windows\system32\RPCRT4.dll
+0x0000000077790000 - 0x000000007788a000 	C:\Windows\system32\USER32.dll
+0x000007fefed50000 - 0x000007fefedb7000 	C:\Windows\system32\GDI32.dll
+0x000007fefe1c0000 - 0x000007fefe1ce000 	C:\Windows\system32\LPK.dll
+0x000007fefe270000 - 0x000007fefe339000 	C:\Windows\system32\USP10.dll
+0x000007fefbfb0000 - 0x000007fefc1a4000 	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac\COMCTL32.dll
+0x000007fefec30000 - 0x000007fefeca1000 	C:\Windows\system32\SHLWAPI.dll
+0x000007fefeac0000 - 0x000007fefeaee000 	C:\Windows\system32\IMM32.DLL
+0x000007fefe340000 - 0x000007fefe449000 	C:\Windows\system32\MSCTF.dll
+0x0000000071860000 - 0x0000000071931000 	C:\JDK\jdk1.7.0-64bits\jre\bin\msvcr100.dll
+0x0000000064aa0000 - 0x00000000651af000 	C:\JDK\jdk1.7.0-64bits\jre\bin\server\jvm.dll
+0x000007fef8de0000 - 0x000007fef8de9000 	C:\Windows\system32\WSOCK32.dll
+0x000007fefe170000 - 0x000007fefe1bd000 	C:\Windows\system32\WS2_32.dll
+0x000007fefe870000 - 0x000007fefe878000 	C:\Windows\system32\NSI.dll
+0x000007fefae80000 - 0x000007fefaebb000 	C:\Windows\system32\WINMM.dll
+0x0000000077b70000 - 0x0000000077b77000 	C:\Windows\system32\PSAPI.DLL
+0x0000000074e50000 - 0x0000000074e5f000 	C:\JDK\jdk1.7.0-64bits\jre\bin\verify.dll
+0x0000000074d80000 - 0x0000000074da8000 	C:\JDK\jdk1.7.0-64bits\jre\bin\java.dll
+0x0000000074e30000 - 0x0000000074e45000 	C:\JDK\jdk1.7.0-64bits\jre\bin\zip.dll
+
+VM Arguments:
+jvm_args: -Dfile.encoding=Cp1252 -Xbootclasspath:C:\software\programacion\Android\android-sdk\platforms\android-20\android.jar 
+java_command: com.example.padsearcher.JSONTest
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=C:\JDK\jdk1.7.0-64bits
+PATH=C:\JDK\jdk1.7.0-64bits\bin;C:\software\programacion\cygwin\bin;C:\software\programacion\MinGW\bin;C:\software\programacion\Android\android-sdk\tools;C:\Program Files (x86)\Haskell\bin;c:\software\programacion\haskell\Haskell2012p4\lib\extralibs\bin;c:\software\programacion\haskell\Haskell2012p4\bin;c:\Python27\Lib\site-packages\PyQt4;c:\software\programacion\CollabNet\SVNClient;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\software\utilidades\LyX\MiKTeX-2.9\miktex\bin;C:\software\utilidades\LyX20\MiKTeX 2.9\miktex\bin;C:\software\bbdd\oracle\Ora11gr2_x64\cliente\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;C:\Windows\system32\windowspowershell\v1.0\;c:\software\PROGRA~1\CBUILD~1\Bin;c:\jdk\jdk1.6.0_24-32bits\javafx-sdk1.3\bin;c:\jdk\jdk1.6.0_24-32bits\javafx-sdk1.3\emulator\bin;c:\software\utilidades\LEd\MiKTeX 2.9\miktex\bin;C:\Program Files\Intel\DMIX;C:\software\programacion\Protege_3.4.8\Graphviz\bin;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;c:\Python27\Lib\site-packages\vtk;c:\Python27\gnuplot\binary;c:\software\programacion\pythonxy\SciTE-3.1.0;c:\software\programacion\pythonxy\console;C:\MinGW32-xy\bin;c:\software\programacion\pythonxy\swig;c:\software\programacion\pythonxy\gettext\bin;c:\software\electronica\modelsim\win64;c:\software\programacion\haskell\Haskell2012p4\mingw\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\software\programacion\TortoiseSVN\bin;C:\software\electronica\ARM\EclipseARM\sourcery-g++-lite-arm-2011.03\bin;c:\software\electronica\XSTOOLs;C:\software\MATLABr2013b\runtime\win64;C:\software\MATLABr2013b\bin
+USERNAME=usuario_local
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 7 , 64 bit Build 7601 Service Pack 1
+
+CPU:total 8 (4 cores per cpu, 2 threads per core) family 6 model 42 stepping 7, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, avx, ht, tsc, tscinvbit
+
+Memory: 4k page, physical 6196664k(872640k free), swap 12391464k(3379348k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (23.25-b01) for windows-amd64 JRE (1.7.0_25-b17), built on Jun 21 2013 12:58:32 by "java_re" with unknown MS VC++:1600
+
+time: Thu May 07 12:56:16 2015
+elapsed time: 0 seconds
+

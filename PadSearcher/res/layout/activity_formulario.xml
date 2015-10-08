@@ -1,0 +1,72 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+<AbsoluteLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentTop="true"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.padsearcher.Formulario" >
+
+    <Button
+        android:id="@+id/aparcamiento"
+        android:layout_width="266dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="74dp"
+        android:layout_x="10dp"
+        android:layout_y="124dp"
+        android:text="Aparcamientos" />
+
+    <Button
+        android:id="@+id/farmacia"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="134dp"
+        android:layout_x="10dp"
+        android:layout_y="256dp"
+        android:text="Farmacias" />
+
+    <Button
+        android:id="@+id/reciente"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginBottom="18dp"
+        android:layout_marginLeft="18dp"
+        android:layout_x="60dp"
+        android:layout_y="196dp"
+        android:text="Búsquedas Recientes"
+        android:textColor="#1424FF" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="52dp"
+        android:layout_x="76dp"
+        android:layout_y="38dp"
+        android:text="INFO MADRID"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/recienteFarmacia"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginBottom="18dp"
+        android:layout_marginLeft="18dp"
+        android:layout_x="63dp"
+        android:layout_y="326dp"
+        android:text="Búsquedas Recientes"
+        android:textColor="#1424FF" />
+</AbsoluteLayout>
+
+</FrameLayout>
